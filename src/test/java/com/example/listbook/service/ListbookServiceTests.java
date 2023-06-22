@@ -1,2 +1,4 @@
-package com.example.listbook.service;public class ListbookServiceTests {
+package com.example.listbook.service;
+
+public class ListbookServiceTests {
 }
